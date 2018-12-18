@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<tool name="SMART-DB">
+	<protein id="YEAST02384" length="149">
+		<feature type="EFh" instance="3" clan="---" evalue="1.4e-07">
+			<start inst_eval="0.0055" start="8" end="34"/>
+			<start inst_eval="5e-07" start="85" end="113"/>
+			<start inst_eval="0.00085" start="121" end="144"/>
+		</feature>
+		<feature type="EH" instance="2" clan="---" evalue="0.00036">
+			<start inst_eval="0.015" start="4" end="47"/>
+			<start inst_eval="1.6e-05" start="75" end="144"/>
+		</feature>
+	</protein>
+	<protein id="YEAST01838" length="126">
+	</protein>
+	<protein id="YEAST05717" length="161">
+		<feature type="EH" instance="2" clan="---" evalue="9.6e-09">
+			<start inst_eval="5.6e-06" start="8" end="67"/>
+			<start inst_eval="1.1e-06" start="89" end="159"/>
+		</feature>
+		<feature type="EFh" instance="4" clan="---" evalue="8e-25">
+			<start inst_eval="8.7e-13" start="24" end="52"/>
+			<start inst_eval="0.059" start="60" end="86"/>
+			<start inst_eval="9.1e-09" start="97" end="125"/>
+			<start inst_eval="9.9e-12" start="133" end="160"/>
+		</feature>
+	</protein>
+	<protein id="YEAST01016" length="248">
+	</protein>
+</tool>

@@ -1,0 +1,1052 @@
+<?xml version="1.0"?>
+<out FAS_version="1.6.1" weighting="HUMAN_9606@1/loge" constraints="none" MS="classic" priority="50/5000" overlap="0/0.4" efilters="0.001/0.01" timelimit="off" scoreweights="(0.7, 0.0, 0.3)" cores="1" linearized="pfam/smart" normal="cast/coils/seg/signalp/tmhmm">
+	<query id="HUMAN20808" length="195">
+		<template id="YEAST05717" score="0.79505817506" MS="0.8108108135" PS="0.7583020187" CS="1.0" LS="0.4815030994" length="161" mode="exhaustive/exhaustive" calculationTime="0.408s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.270270271152">
+					<instance start="24" end="52"/>
+				</feature>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.270270271152">
+					<instance start="97" end="126"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.189189186545">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.270270271152">
+					<instance start="133" end="161"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="53" end="64"/>
+				</feature>
+				<feature type="pfam_EF-hand_6">
+					<instance start="132" end="175"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="32"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="175" end="195"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.1748241758" MS="0.2" PS="0.116080586" CS="0.0" LS="0.08125" length="126" mode="exhaustive/exhaustive" calculationTime="0.0024s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="53" end="64"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="32"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="129" end="160"/>
+					<instance start="175" end="195"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.97287558025" MS="1.0" PS="0.9095852675" CS="1.0" LS="0.7111263736" length="149" mode="exhaustive/exhaustive" calculationTime="0.0848s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.5">
+					<instance start="8" end="34"/>
+					<instance start="85" end="113"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.5">
+					<instance start="121" end="146"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="53" end="64"/>
+					<instance start="137" end="160"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="32"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="175" end="195"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0021s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="53" end="64"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="32"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="129" end="160"/>
+					<instance start="175" end="195"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN23579" length="191">
+		<template id="YEAST05717" score="0.98730217039" MS="1.0" PS="0.9576739013" CS="1.0" LS="0.8897771347" length="161" mode="exhaustive/exhaustive" calculationTime="11.2678s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.348837218112">
+					<instance start="24" end="52"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.244186048469">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="smart_EH" corrected_weight="0.406976733418">
+					<instance start="89" end="159"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="29" end="57"/>
+				</feature>
+				<feature type="coils_coiled_coil">
+					<instance start="120" end="140"/>
+				</feature>
+				<feature type="smart_EH">
+					<instance start="92" end="188"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="65" end="92"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="126" mode="exhaustive/exhaustive" calculationTime="0.0626s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="138" end="157"/>
+					<instance start="177" end="190"/>
+				</feature>
+				<feature type="coils_coiled_coil">
+					<instance start="120" end="140"/>
+				</feature>
+				<feature type="smart_EH">
+					<instance start="10" end="76"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="77" end="121"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.9957448909" MS="1.0" PS="0.985816303" CS="0.75" LS="0.7538831363" length="149" mode="exhaustive/exhaustive" calculationTime="2.6519s" >
+			<template_path>
+				<feature type="smart_EH" corrected_weight="0.538461535775">
+					<instance start="75" end="144"/>
+				</feature>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.461538464225">
+					<instance start="18" end="49"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="65" end="92"/>
+				</feature>
+				<feature type="coils_coiled_coil">
+					<instance start="120" end="140"/>
+				</feature>
+				<feature type="smart_EH">
+					<instance start="92" end="188"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="18" end="57"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.08884210203" MS="0.09090909" PS="0.0840191301" CS="0.0" LS="0.09090909" length="248" mode="exhaustive/exhaustive" calculationTime="0.0713s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="138" end="157"/>
+					<instance start="177" end="190"/>
+				</feature>
+				<feature type="coils_coiled_coil">
+					<instance start="120" end="140"/>
+				</feature>
+				<feature type="smart_EH">
+					<instance start="10" end="76"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="77" end="121"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN13676" length="172">
+		<template id="YEAST05717" score="0.82530800682" MS="0.8292682941" PS="0.8160673365" CS="1.0" LS="0.7162956467" length="161" mode="exhaustive/exhaustive" calculationTime="1.5072s" >
+			<template_path>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.243902441178">
+					<instance start="97" end="126"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.243902441178">
+					<instance start="133" end="161"/>
+				</feature>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.341463411763">
+					<instance start="27" end="89"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_6">
+					<instance start="102" end="136"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="138" end="166"/>
+				</feature>
+				<feature type="pfam_EF-hand_9">
+					<instance start="35" end="83"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="4" end="13"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.1722508304" MS="0.2" PS="0.107502768" CS="0.0" LS="0.1384615385" length="126" mode="exhaustive/exhaustive" calculationTime="0.0112s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EH">
+					<instance start="23" end="67"/>
+				</feature>
+				<feature type="pfam_EF-hand_11">
+					<instance start="92" end="168"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="4" end="13"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.99360660301" MS="1.0" PS="0.9786886767" CS="1.0" LS="0.8485449735" length="149" mode="exhaustive/exhaustive" calculationTime="0.375s" >
+			<template_path>
+				<feature type="pfam_EF-hand_7" corrected_weight="0.333333333333">
+					<instance start="5" end="77"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.333333333333">
+					<instance start="85" end="113"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.333333333333">
+					<instance start="121" end="146"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="31" end="78"/>
+				</feature>
+				<feature type="smart_EFh">
+					<instance start="102" end="130"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="4" end="13"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="138" end="166"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0096s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EH">
+					<instance start="23" end="67"/>
+				</feature>
+				<feature type="pfam_EF-hand_11">
+					<instance start="92" end="168"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="4" end="13"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN12852" length="197">
+		<template id="YEAST05717" score="0.81234400149" MS="0.8292682941" PS="0.7728539854" CS="1.0" LS="0.6946358424" length="161" mode="exhaustive/exhaustive" calculationTime="0.2947s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.243902441178">
+					<instance start="133" end="160"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.243902441178">
+					<instance start="97" end="125"/>
+				</feature>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.341463411763">
+					<instance start="27" end="89"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="179" end="196"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="41"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="131" end="162"/>
+				</feature>
+				<feature type="pfam_EF-hand_9">
+					<instance start="57" end="123"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="38"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.1753770848" MS="0.2" PS="0.117923616" CS="0.0" LS="0.0722222222" length="126" mode="exhaustive/exhaustive" calculationTime="0.0021s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="55" end="66"/>
+					<instance start="179" end="196"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="41"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="38"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="131" end="162"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.97221834175" MS="1.0" PS="0.9073944725" CS="1.0" LS="0.7011408998" length="149" mode="exhaustive/exhaustive" calculationTime="0.0742s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.5">
+					<instance start="121" end="144"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.5">
+					<instance start="8" end="34"/>
+					<instance start="85" end="113"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="179" end="196"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="41"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="38"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="55" end="66"/>
+					<instance start="131" end="162"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0019s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="55" end="66"/>
+					<instance start="179" end="196"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="3" end="41"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="38"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="131" end="162"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN05019" length="204">
+		<template id="YEAST05717" score="0.81402840168" MS="0.8292682941" PS="0.7784686527" CS="1.0" LS="0.8034843221" length="161" mode="exhaustive/exhaustive" calculationTime="7.6585s" >
+			<template_path>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.243902441178">
+					<instance start="133" end="161"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg" corrected_weight="0.341463411763">
+					<instance start="2" end="82"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.243902441178">
+					<instance start="97" end="125"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="112" end="127"/>
+				</feature>
+				<feature type="pfam_EF-hand_6">
+					<instance start="177" end="204"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg">
+					<instance start="33" end="109"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="37" end="46"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="140" end="168"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.1814915966" MS="0.2" PS="0.138305322" CS="0.0" LS="0.1384615385" length="126" mode="exhaustive/exhaustive" calculationTime="0.0527s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="177" end="204"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg">
+					<instance start="33" end="109"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="37" end="46"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="111" end="160"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.986056555" MS="1.0" PS="0.95352185" CS="1.0" LS="0.8627136752" length="149" mode="exhaustive/exhaustive" calculationTime="1.9037s" >
+			<template_path>
+				<feature type="pfam_EF-hand_7" corrected_weight="0.5">
+					<instance start="5" end="77"/>
+				</feature>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.5">
+					<instance start="97" end="149"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="37" end="92"/>
+				</feature>
+				<feature type="smart_EFh">
+					<instance start="112" end="127"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="37" end="46"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="154" end="204"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0459s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="177" end="204"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg">
+					<instance start="33" end="109"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="37" end="46"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="111" end="160"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN18157" length="194">
+		<template id="YEAST05717" score="0.81347546658" MS="0.8292682941" PS="0.7766255357" CS="1.0" LS="0.7803228288" length="161" mode="exhaustive/exhaustive" calculationTime="0.7094s" >
+			<template_path>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.243902441178">
+					<instance start="97" end="126"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.243902441178">
+					<instance start="133" end="161"/>
+				</feature>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.341463411763">
+					<instance start="27" end="89"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_6">
+					<instance start="131" end="164"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="167" end="194"/>
+				</feature>
+				<feature type="pfam_EF-hand_9">
+					<instance start="56" end="120"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.174852725" MS="0.2" PS="0.11617575" CS="0.0" LS="0.08125" length="126" mode="exhaustive/exhaustive" calculationTime="0.0051s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="52" end="118"/>
+					<instance start="125" end="192"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.97198332475" MS="1.0" PS="0.9066110825" CS="1.0" LS="0.924039243" length="149" mode="exhaustive/exhaustive" calculationTime="0.1777s" >
+			<template_path>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.5">
+					<instance start="7" end="35"/>
+					<instance start="85" end="114"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.5">
+					<instance start="121" end="146"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_6">
+					<instance start="54" end="83"/>
+					<instance start="131" end="164"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="167" end="194"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0044s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="52" end="118"/>
+					<instance start="125" end="192"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="34"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN02831" length="146">
+		<template id="YEAST05717" score="0.82668742701" MS="0.8292682941" PS="0.8206654038" CS="1.0" LS="0.7592870561" length="161" mode="exhaustive/exhaustive" calculationTime="10.3814s" >
+			<template_path>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.243902441178">
+					<instance start="97" end="126"/>
+				</feature>
+				<feature type="pfam_EF-hand_5" corrected_weight="0.243902441178">
+					<instance start="131" end="157"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg" corrected_weight="0.341463411763">
+					<instance start="2" end="82"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_6">
+					<instance start="82" end="111"/>
+				</feature>
+				<feature type="pfam_EF-hand_5">
+					<instance start="119" end="143"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg">
+					<instance start="4" end="72"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="126" mode="exhaustive/exhaustive" calculationTime="0.0633s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_4">
+					<instance start="1" end="76"/>
+				</feature>
+				<feature type="smart_EH">
+					<instance start="77" end="144"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.9981003505" MS="1.0" PS="0.993667835" CS="1.0" LS="0.9348290598" length="149" mode="exhaustive/exhaustive" calculationTime="2.5606s" >
+			<template_path>
+				<feature type="pfam_EF-hand_7" corrected_weight="0.5">
+					<instance start="5" end="77"/>
+				</feature>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.5">
+					<instance start="97" end="149"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="10" end="74"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="95" end="146"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0629s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_4">
+					<instance start="1" end="76"/>
+				</feature>
+				<feature type="smart_EH">
+					<instance start="77" end="144"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN05886" length="286">
+		<template id="YEAST05717" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="161" mode="exhaustive/exhaustive" calculationTime="0.013s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.243902441178">
+					<instance start="97" end="125"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_5" corrected_weight="0.243902441178">
+					<instance start="131" end="157"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg" corrected_weight="0.341463411763">
+					<instance start="2" end="82"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_TIM">
+					<instance start="44" end="282"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="126" mode="exhaustive/exhaustive" calculationTime="0.0001s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_TIM">
+					<instance start="44" end="282"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="149" mode="exhaustive/exhaustive" calculationTime="0.0032s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.294117644441">
+					<instance start="85" end="113"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.294117644441">
+					<instance start="121" end="146"/>
+				</feature>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.411764711119">
+					<instance start="8" end="63"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_TIM">
+					<instance start="44" end="282"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.89056892635" MS="0.90909091" PS="0.8473509645" CS="1.0" LS="0.9052871823" length="248" mode="exhaustive/exhaustive" calculationTime="0.0002s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_TIM">
+					<instance start="44" end="282"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN06609" length="208">
+		<template id="YEAST05717" score="0.80773047333" MS="0.8292682941" PS="0.7574755582" CS="1.0" LS="0.7192299013" length="161" mode="exhaustive/exhaustive" calculationTime="0.7256s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.243902441178">
+					<instance start="133" end="160"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.243902441178">
+					<instance start="97" end="125"/>
+				</feature>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.341463411763">
+					<instance start="27" end="89"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="189" end="205"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="2" end="51"/>
+				</feature>
+				<feature type="pfam_EF-hand_1">
+					<instance start="145" end="173"/>
+				</feature>
+				<feature type="pfam_EF-hand_9">
+					<instance start="70" end="134"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="41"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.1754876372" MS="0.2" PS="0.118292124" CS="0.0" LS="0.0666666667" length="126" mode="exhaustive/exhaustive" calculationTime="0.0052s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="189" end="205"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="2" end="51"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="41"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="55" end="87"/>
+					<instance start="118" end="165"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.97468742035" MS="1.0" PS="0.9156247345" CS="1.0" LS="0.9772569445" length="149" mode="exhaustive/exhaustive" calculationTime="0.1807s" >
+			<template_path>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.583333338588">
+					<instance start="88" end="148"/>
+				</feature>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.416666661412">
+					<instance start="18" end="49"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="cast_P-rich">
+					<instance start="2" end="51"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="41"/>
+				</feature>
+				<feature type="pfam_EF-hand_9">
+					<instance start="148" end="207"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="55" end="87"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0045s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_EFh">
+					<instance start="189" end="205"/>
+				</feature>
+				<feature type="cast_P-rich">
+					<instance start="2" end="51"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="2" end="41"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="55" end="87"/>
+					<instance start="118" end="165"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN20252" length="132">
+		<template id="YEAST05717" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="161" mode="exhaustive/exhaustive" calculationTime="0.0285s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.243902441178">
+					<instance start="97" end="125"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.170731705881">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_5" corrected_weight="0.243902441178">
+					<instance start="131" end="157"/>
+				</feature>
+				<feature type="pfam_SPARC_Ca_bdg" corrected_weight="0.341463411763">
+					<instance start="2" end="82"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_RNase_P_pop3">
+					<instance start="1" end="132"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="114" end="127"/>
+					<instance start="65" end="76"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.9233874462" MS="0.9" PS="0.977958154" CS="1.0" LS="0.9692307692" length="126" mode="exhaustive/exhaustive" calculationTime="0.0003s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_Ribosomal_L7Ae">
+					<instance start="24" end="118"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="114" end="127"/>
+					<instance start="65" end="76"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="149" mode="exhaustive/exhaustive" calculationTime="0.007s" >
+			<template_path>
+				<feature type="smart_EFh" corrected_weight="0.294117644441">
+					<instance start="85" end="113"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.294117644441">
+					<instance start="121" end="146"/>
+				</feature>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.411764711119">
+					<instance start="8" end="63"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_RNase_P_pop3">
+					<instance start="1" end="132"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="114" end="127"/>
+					<instance start="65" end="76"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0002s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_RNase_P_pop3">
+					<instance start="1" end="132"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="114" end="127"/>
+					<instance start="65" end="76"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+	<query id="HUMAN06612" length="161">
+		<template id="YEAST05717" score="0.72866344958" MS="0.7407407441" PS="0.7004830957" CS="1.0" LS="0.582716052" length="161" mode="exhaustive/exhaustive" calculationTime="0.3945s" >
+			<template_path>
+				<feature type="pfam_EF-hand_7" corrected_weight="0.370370372026">
+					<instance start="22" end="86"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.259259255949">
+					<instance start="115" end="135"/>
+				</feature>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.370370372026">
+					<instance start="109" end="159"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="9" end="84"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="106" end="142"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01838" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="126" mode="exhaustive/exhaustive" calculationTime="0.0026s" >
+			<template_path>
+				<feature type="pfam_Ribosomal_L7Ae" corrected_weight="0.8">
+					<instance start="18" end="112"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.2">
+					<instance start="58" end="71"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="9" end="84"/>
+					<instance start="86" end="143"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST02384" score="0.9896546335" MS="1.0" PS="0.965515445" CS="1.0" LS="0.8261538462" length="149" mode="exhaustive/exhaustive" calculationTime="0.0998s" >
+			<template_path>
+				<feature type="pfam_EF-hand_7" corrected_weight="0.5">
+					<instance start="5" end="77"/>
+				</feature>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.5">
+					<instance start="97" end="149"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="9" end="84"/>
+				</feature>
+				<feature type="pfam_EF-hand_8">
+					<instance start="106" end="142"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="YEAST01016" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="248" mode="exhaustive/exhaustive" calculationTime="0.0026s" >
+			<template_path>
+				<feature type="coils_coiled_coil" corrected_weight="0.09090909">
+					<instance start="140" end="160"/>
+				</feature>
+				<feature type="pfam_TIM" corrected_weight="0.90909091">
+					<instance start="5" end="244"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_EF-hand_7">
+					<instance start="9" end="84"/>
+					<instance start="86" end="143"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+</out>

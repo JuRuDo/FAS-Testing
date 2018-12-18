@@ -1,0 +1,10 @@
+#tool_constraints (this line must be kept)
+cast N
+coils N
+pfam 0.3
+seg 0.1
+signalp N
+smart 0.3
+tmhmm N
+#feature_constraints (this line must be kept)
+tmhmm_transmembrane 0.1

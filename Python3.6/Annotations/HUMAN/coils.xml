@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<tool name="COILS2">
+	<protein id="HUMAN06609" length="208">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN02831" length="146">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN13676" length="172">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN18157" length="194">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN05019" length="204">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN12852" length="197">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN06612" length="161">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN20808" length="195">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN20252" length="132">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN23579" length="191">
+		<feature type="coiled_coil" instance="1">
+			<start start="120"/>
+			<end end="140"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN05886" length="286">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+</tool>

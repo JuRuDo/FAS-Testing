@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<tool name="TMHMM2.0c">
+	<protein id="antlo_2712:1937" length="468">
+		<feature type="transmembrane" instance="1">
+			<start start="7"/>
+			<end end="25"/>
+		</feature>
+	</protein>
+</tool>

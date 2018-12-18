@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<out FAS_version="1.6.1" weighting="HUMAN_9606@1/loge" constraints="none" MS="classic" priority="50/5000" overlap="0/0.4" efilters="0.001/0.01" timelimit="off" scoreweights="(0.7, 0.0, 0.3)" cores="1" linearized="pfam/smart" normal="cast/coils/seg/signalp/tmhmm">
+	<query id="antlo_2712:1937" length="468">
+		<template id="HUMAN06609" score="0.11966357477" MS="0.1225204208" PS="0.1129976007" CS="0.25" LS="0.0439816895" length="208" mode="exhaustive/priority" calculationTime="0.0673s" >
+			<template_path>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.29404900333667827">
+					<instance start="70" end="134"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.21003500471206304">
+					<instance start="145" end="173"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.21003500471206304">
+					<instance start="189" end="205"/>
+				</feature>
+				<feature type="cast_P-rich" corrected_weight="0.16336056646540467">
+					<instance start="2" end="51"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.12252042077379097">
+					<instance start="2" end="41"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN02831" score="0.0" MS="0.0" PS="0.0" CS="0.25" LS="0.0" length="146" mode="exhaustive/priority" calculationTime="0.7264s" >
+			<template_path>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.25">
+					<instance start="7" end="33"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.25">
+					<instance start="48" end="76"/>
+				</feature>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.25">
+					<instance start="82" end="111"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.25">
+					<instance start="118" end="146"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN13676" score="0.11779773661" MS="0.1186440568" PS="0.1158229895" CS="0.0" LS="0.0762711794" length="172" mode="exhaustive/priority" calculationTime="0.1337s" >
+			<template_path>
+				<feature type="pfam_UPF0154" corrected_weight="0.47457628122263723">
+					<instance start="42" end="77"/>
+				</feature>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.2033898309646653">
+					<instance start="102" end="136"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.2033898309646653">
+					<instance start="138" end="166"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.11864405684803205">
+					<instance start="4" end="13"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN18157" score="0.1434937442" MS="0.1464435185" PS="0.1366109375" CS="0.25" LS="0.0640690393" length="194" mode="exhaustive/priority" calculationTime="0.0664s" >
+			<template_path>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.35146443533499067">
+					<instance start="56" end="120"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.25104602309343327">
+					<instance start="131" end="159"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.25104602309343327">
+					<instance start="176" end="194"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.14644351847814285">
+					<instance start="2" end="34"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN05019" score="0.11081337211" MS="0.117056845" PS="0.0962452687" CS="0.25" LS="0.0752508289" length="204" mode="exhaustive/priority" calculationTime="0.5708s" >
+			<template_path>
+				<feature type="pfam_SPARC_Ca_bdg" corrected_weight="0.2809364518820819">
+					<instance start="33" end="109"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.20066890105289653">
+					<instance start="112" end="127"/>
+				</feature>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.20066890105289653">
+					<instance start="140" end="170"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.20066890105289653">
+					<instance start="177" end="204"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.11705684495922859">
+					<instance start="37" end="46"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN12852" score="0.11973130204999999" MS="0.1225204235" PS="0.113223352" CS="0.25" LS="0.0476468314" length="197" mode="exhaustive/priority" calculationTime="0.0336s" >
+			<template_path>
+				<feature type="pfam_EF-hand_9" corrected_weight="0.29404900675608514">
+					<instance start="57" end="123"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.21003500655439655">
+					<instance start="131" end="162"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.21003500655439655">
+					<instance start="179" end="196"/>
+				</feature>
+				<feature type="cast_P-rich" corrected_weight="0.16336055661996954">
+					<instance start="3" end="41"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.12252042351515213">
+					<instance start="2" end="38"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN06612" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="161" mode="exhaustive/priority" calculationTime="0.0422s" >
+			<template_path>
+				<feature type="pfam_EF-hand_7" corrected_weight="0.5">
+					<instance start="9" end="84"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.5">
+					<instance start="88" end="116"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN20808" score="0.13108280235" MS="0.1337579613" PS="0.1248407648" CS="0.25" LS="0.0585191081" length="195" mode="exhaustive/priority" calculationTime="0.0367s" >
+			<template_path>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.22929936229299358">
+					<instance start="53" end="64"/>
+				</feature>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.22929936229299358">
+					<instance start="132" end="175"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.22929936229299358">
+					<instance start="177" end="195"/>
+				</feature>
+				<feature type="cast_P-rich" corrected_weight="0.17834395178343948">
+					<instance start="3" end="32"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.1337579613375796">
+					<instance start="2" end="34"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN20252" score="0.03389591232" MS="0.038461539" PS="0.0232427834" CS="0.0" LS="0.0659340668" length="132" mode="exhaustive/priority" calculationTime="0.0129s" >
+			<template_path>
+				<feature type="pfam_RNase_P_pop3" corrected_weight="0.923076922071006">
+					<instance start="1" end="132"/>
+				</feature>
+				<feature type="seg_low complexity regions" corrected_weight="0.0769230779289941">
+					<instance start="65" end="76"/>
+					<instance start="114" end="127"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN23579" score="0.0" MS="0.0" PS="0.0" CS="0.25" LS="0.0" length="191" mode="exhaustive/priority" calculationTime="0.6976s" >
+			<template_path>
+				<feature type="pfam_EF-hand_8" corrected_weight="0.1754385962060121">
+					<instance start="18" end="57"/>
+				</feature>
+				<feature type="pfam_EF-hand_1" corrected_weight="0.1754385962060121">
+					<instance start="65" end="92"/>
+				</feature>
+				<feature type="pfam_EF-hand_6" corrected_weight="0.1754385962060121">
+					<instance start="102" end="131"/>
+				</feature>
+				<feature type="pfam_EF-hand_5" corrected_weight="0.1754385962060121">
+					<instance start="138" end="154"/>
+				</feature>
+				<feature type="smart_EFh" corrected_weight="0.1754385962060121">
+					<instance start="177" end="190"/>
+				</feature>
+				<feature type="coils_coiled_coil" corrected_weight="0.12280701896993944">
+					<instance start="120" end="140"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+		<template id="HUMAN05886" score="0.0" MS="0.0" PS="0.0" CS="0.0" LS="0.0" length="286" mode="exhaustive/priority" calculationTime="0.0111s" >
+			<template_path>
+				<feature type="pfam_TIM" corrected_weight="1.0">
+					<instance start="44" end="282"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="pfam_LRR_9">
+					<instance start="36" end="161"/>
+					<instance start="345" end="440"/>
+				</feature>
+				<feature type="pfam_DUF2322">
+					<instance start="187" end="242"/>
+				</feature>
+				<feature type="pfam_LRR_1">
+					<instance start="249" end="270"/>
+					<instance start="318" end="339"/>
+				</feature>
+				<feature type="smart_LRR_RI">
+					<instance start="272" end="284"/>
+				</feature>
+				<feature type="smart_LRR_BAC">
+					<instance start="294" end="311"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+</out>

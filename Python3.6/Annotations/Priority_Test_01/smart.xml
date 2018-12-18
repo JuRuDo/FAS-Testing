@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<tool name="SMART-DB">
+	<protein id="antlo_2712:1937" length="468">
+		<feature type="LRR_BAC" instance="17">
+			<start start="42" end="58"/>
+			<start start="64" end="82"/>
+			<start start="87" end="105"/>
+			<start start="110" end="128"/>
+			<start start="133" end="151"/>
+			<start start="156" end="174"/>
+			<start start="179" end="197"/>
+			<start start="202" end="220"/>
+			<start start="225" end="243"/>
+			<start start="248" end="266"/>
+			<start start="271" end="289"/>
+			<start start="294" end="311"/>
+			<start start="317" end="335"/>
+			<start start="340" end="357"/>
+			<start start="362" end="379"/>
+			<start start="385" end="404"/>
+			<start start="413" end="423"/>
+		</feature>
+		<feature type="LRR_RI" instance="16">
+			<start start="40" end="56"/>
+			<start start="63" end="79"/>
+			<start start="86" end="102"/>
+			<start start="109" end="125"/>
+			<start start="132" end="147"/>
+			<start start="155" end="171"/>
+			<start start="178" end="194"/>
+			<start start="201" end="217"/>
+			<start start="224" end="239"/>
+			<start start="247" end="261"/>
+			<start start="272" end="284"/>
+			<start start="316" end="332"/>
+			<start start="339" end="354"/>
+			<start start="362" end="379"/>
+			<start start="385" end="400"/>
+			<start start="413" end="441"/>
+		</feature>
+		<feature type="LRR_SD22" instance="15">
+			<start start="41" end="60"/>
+			<start start="63" end="84"/>
+			<start start="86" end="102"/>
+			<start start="109" end="134"/>
+			<start start="132" end="149"/>
+			<start start="155" end="172"/>
+			<start start="178" end="195"/>
+			<start start="201" end="217"/>
+			<start start="224" end="241"/>
+			<start start="247" end="272"/>
+			<start start="316" end="332"/>
+			<start start="339" end="359"/>
+			<start start="362" end="384"/>
+			<start start="385" end="401"/>
+			<start start="412" end="429"/>
+		</feature>
+		<feature type="LRR_TYP" instance="18">
+			<start start="29" end="40"/>
+			<start start="41" end="62"/>
+			<start start="63" end="85"/>
+			<start start="86" end="108"/>
+			<start start="109" end="131"/>
+			<start start="132" end="154"/>
+			<start start="155" end="177"/>
+			<start start="178" end="200"/>
+			<start start="201" end="223"/>
+			<start start="224" end="246"/>
+			<start start="247" end="269"/>
+			<start start="270" end="292"/>
+			<start start="293" end="315"/>
+			<start start="316" end="338"/>
+			<start start="339" end="361"/>
+			<start start="362" end="381"/>
+			<start start="385" end="405"/>
+			<start start="408" end="423"/>
+		</feature>
+	</protein>
+</tool>

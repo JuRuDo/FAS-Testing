@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<tool name="PfamDB">
+	<protein id="antlo_2712:1937" length="468">
+		<feature type="LRR_4" instance="10" clan="CL0022">
+			<start start="41"/>
+			<end end="87"/>
+			<start start="64"/>
+			<end end="104"/>
+			<start start="87"/>
+			<end end="131"/>
+			<start start="133"/>
+			<end end="176"/>
+			<start start="179"/>
+			<end end="222"/>
+			<start start="225"/>
+			<end end="261"/>
+			<start start="248"/>
+			<end end="291"/>
+			<start start="294"/>
+			<end end="337"/>
+			<start start="340"/>
+			<end end="381"/>
+			<start start="386"/>
+			<end end="435"/>
+		</feature>
+		<feature type="LRR_1" instance="15" clan="CL0022">
+			<start start="42"/>
+			<end end="63"/>
+			<start start="65"/>
+			<end end="86"/>
+			<start start="88"/>
+			<end end="109"/>
+			<start start="111"/>
+			<end end="132"/>
+			<start start="134"/>
+			<end end="155"/>
+			<start start="157"/>
+			<end end="178"/>
+			<start start="180"/>
+			<end end="201"/>
+			<start start="203"/>
+			<end end="224"/>
+			<start start="226"/>
+			<end end="247"/>
+			<start start="249"/>
+			<end end="270"/>
+			<start start="272"/>
+			<end end="293"/>
+			<start start="318"/>
+			<end end="339"/>
+			<start start="341"/>
+			<end end="362"/>
+			<start start="364"/>
+			<end end="385"/>
+			<start start="387"/>
+			<end end="408"/>
+		</feature>
+		<feature type="LRR_8" instance="14" clan="CL0022">
+			<start start="23"/>
+			<end end="76"/>
+			<start start="41"/>
+			<end end="99"/>
+			<start start="63"/>
+			<end end="122"/>
+			<start start="87"/>
+			<end end="145"/>
+			<start start="110"/>
+			<end end="168"/>
+			<start start="133"/>
+			<end end="191"/>
+			<start start="156"/>
+			<end end="214"/>
+			<start start="202"/>
+			<end end="260"/>
+			<start start="248"/>
+			<end end="306"/>
+			<start start="271"/>
+			<end end="329"/>
+			<start start="294"/>
+			<end end="352"/>
+			<start start="317"/>
+			<end end="375"/>
+			<start start="340"/>
+			<end end="398"/>
+			<start start="363"/>
+			<end end="421"/>
+		</feature>
+		<feature type="LRR_6" instance="8" clan="CL0022">
+			<start start="40"/>
+			<end end="62"/>
+			<start start="63"/>
+			<end end="85"/>
+			<start start="109"/>
+			<end end="131"/>
+			<start start="155"/>
+			<end end="172"/>
+			<start start="178"/>
+			<end end="195"/>
+			<start start="201"/>
+			<end end="218"/>
+			<start start="316"/>
+			<end end="335"/>
+			<start start="385"/>
+			<end end="402"/>
+		</feature>
+		<feature type="DUF2322" instance="1" clan="DUF2322">
+			<start start="187"/>
+			<end end="242"/>
+		</feature>
+		<feature type="LRR_9" instance="4" clan="CL0022">
+			<start start="36"/>
+			<end end="161"/>
+			<start start="151"/>
+			<end end="242"/>
+			<start start="197"/>
+			<end end="313"/>
+			<start start="345"/>
+			<end end="440"/>
+		</feature>
+		<feature type="LRR_7" instance="15" clan="CL0022">
+			<start start="41"/>
+			<end end="57"/>
+			<start start="62"/>
+			<end end="80"/>
+			<start start="87"/>
+			<end end="103"/>
+			<start start="110"/>
+			<end end="126"/>
+			<start start="133"/>
+			<end end="149"/>
+			<start start="156"/>
+			<end end="172"/>
+			<start start="179"/>
+			<end end="195"/>
+			<start start="202"/>
+			<end end="218"/>
+			<start start="225"/>
+			<end end="241"/>
+			<start start="248"/>
+			<end end="264"/>
+			<start start="271"/>
+			<end end="287"/>
+			<start start="294"/>
+			<end end="310"/>
+			<start start="315"/>
+			<end end="333"/>
+			<start start="363"/>
+			<end end="379"/>
+			<start start="386"/>
+			<end end="402"/>
+		</feature>
+		<feature type="CSTF_C" instance="3" clan="CSTF_C">
+			<start start="157"/>
+			<end end="174"/>
+			<start start="180"/>
+			<end end="197"/>
+			<start start="203"/>
+			<end end="221"/>
+		</feature>
+		<feature type="CppA_C" instance="1" clan="CppA_C">
+			<start start="179"/>
+			<end end="272"/>
+		</feature>
+	</protein>
+</tool>

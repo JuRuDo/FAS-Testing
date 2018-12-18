@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<tool name="SMART-DB">
+	<protein id="HUMAN06609" length="208">
+		<feature type="EFh" instance="3" clan="---" evalue="6.6e-16">
+			<start inst_eval="5.9e-11" start="68" end="96"/>
+			<start inst_eval="1.8e-06" start="150" end="173"/>
+			<start inst_eval="0.0019" start="189" end="205"/>
+		</feature>
+		<feature type="EH" instance="2" clan="---" evalue="0.0028">
+			<start inst_eval="0.0061" start="59" end="104"/>
+			<start inst_eval="0.00037" start="139" end="187"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN02831" length="146">
+		<feature type="EFh" instance="4" clan="---" evalue="1.8e-40">
+			<start inst_eval="1.2e-11" start="12" end="40"/>
+			<start inst_eval="3e-12" start="48" end="76"/>
+			<start inst_eval="7e-12" start="82" end="110"/>
+			<start inst_eval="4.3e-12" start="118" end="146"/>
+		</feature>
+		<feature type="EH" instance="2" clan="---" evalue="1.7e-16">
+			<start inst_eval="3.9e-13" start="3" end="84"/>
+			<start inst_eval="2.2e-07" start="77" end="144"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN13676" length="172">
+		<feature type="EH" instance="2" clan="---" evalue="2.9e-05">
+			<start inst_eval="3.5e-05" start="23" end="67"/>
+			<start inst_eval="0.00059" start="97" end="168"/>
+		</feature>
+		<feature type="EFh" instance="2" clan="---" evalue="8.9e-14">
+			<start inst_eval="7.9e-14" start="33" end="61"/>
+			<start inst_eval="1.4e-05" start="102" end="130"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN18157" length="194">
+		<feature type="EH" instance="2" clan="---" evalue="0.0014">
+			<start inst_eval="0.00031" start="44" end="94"/>
+			<start inst_eval="0.0037" start="117" end="168"/>
+		</feature>
+		<feature type="EFh" instance="4" clan="---" evalue="6.2e-13">
+			<start inst_eval="2.1e-08" start="54" end="82"/>
+			<start inst_eval="0.034" start="106" end="120"/>
+			<start inst_eval="1.6e-05" start="136" end="159"/>
+			<start inst_eval="0.00065" start="176" end="194"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN05019" length="204">
+		<feature type="EH" instance="2" clan="---" evalue="1.1e-05">
+			<start inst_eval="0.0078" start="56" end="125"/>
+			<start inst_eval="9.3e-07" start="138" end="203"/>
+		</feature>
+		<feature type="EFh" instance="4" clan="---" evalue="5.5e-31">
+			<start inst_eval="1.4e-09" start="66" end="94"/>
+			<start inst_eval="0.00016" start="112" end="127"/>
+			<start inst_eval="2.8e-13" start="140" end="168"/>
+			<start inst_eval="2.1e-12" start="177" end="204"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN12852" length="197">
+		<feature type="EFh" instance="4" clan="---" evalue="9.7e-08">
+			<start inst_eval="8e-05" start="55" end="66"/>
+			<start inst_eval="0.1" start="71" end="85"/>
+			<start inst_eval="9.9e-05" start="139" end="162"/>
+			<start inst_eval="0.00099" start="179" end="196"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN06612" length="161">
+		<feature type="EH" instance="2" clan="---" evalue="0.002">
+			<start inst_eval="0.0003" start="3" end="85"/>
+			<start inst_eval="0.0037" start="75" end="124"/>
+		</feature>
+		<feature type="EFh" instance="3" clan="---" evalue="3.9e-13">
+			<start inst_eval="7.4e-12" start="11" end="39"/>
+			<start inst_eval="0.00022" start="93" end="116"/>
+			<start inst_eval="0.038" start="132" end="142"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN20808" length="195">
+		<feature type="EFh" instance="3" clan="---" evalue="7.7e-09">
+			<start inst_eval="0.0002" start="53" end="64"/>
+			<start inst_eval="8.1e-06" start="137" end="160"/>
+			<start inst_eval="0.00049" start="177" end="195"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN20252" length="132">
+	</protein>
+	<protein id="HUMAN23579" length="191">
+		<feature type="EFh" instance="5" clan="---" evalue="2.3e-24">
+			<start inst_eval="1.6e-11" start="29" end="57"/>
+			<start inst_eval="1.6e-06" start="65" end="92"/>
+			<start inst_eval="1.6e-07" start="102" end="130"/>
+			<start inst_eval="2.4e-08" start="138" end="157"/>
+			<start inst_eval="0.0039" start="177" end="190"/>
+		</feature>
+		<feature type="MgtE_N" instance="2" clan="---" evalue="0.003">
+			<start inst_eval="0.069" start="10" end="81"/>
+			<start inst_eval="8.3e-06" start="87" end="159"/>
+		</feature>
+		<feature type="EH" instance="3" clan="---" evalue="1.4e-06">
+			<start inst_eval="1.7e-05" start="10" end="76"/>
+			<start inst_eval="0.0013" start="59" end="124"/>
+			<start inst_eval="0.00025" start="92" end="188"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN05886" length="286">
+	</protein>
+</tool>

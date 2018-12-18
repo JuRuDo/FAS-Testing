@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<tool name="seg">
+	<protein id="antlo_2712:1937" length="468">
+		<feature type="low complexity regions" instance="1">
+			<start start="5"/>
+			<end end="19"/>
+		</feature>
+	</protein>
+</tool>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<tool name="PfamDB">
+	<protein id="YEAST02384" length="149">
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="1.1e-08">
+			<start inst_eval="1.3e-05" start="8" end="63"/>
+			<start inst_eval="5e-07" start="88" end="148"/>
+		</feature>
+		<feature type="EF-hand_6" instance="3" clan="CL0220" evalue="7.7e-09">
+			<start inst_eval="3.6e-05" start="7" end="35"/>
+			<start inst_eval="2.8e-07" start="85" end="114"/>
+			<start inst_eval="0.045" start="121" end="149"/>
+		</feature>
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="1.7e-11">
+			<start inst_eval="9.5e-05" start="5" end="77"/>
+			<start inst_eval="3.7e-11" start="83" end="146"/>
+		</feature>
+		<feature type="EF-hand_8" instance="3" clan="CL0220" evalue="8e-09">
+			<start inst_eval="0.023" start="8" end="30"/>
+			<start inst_eval="0.0096" start="18" end="49"/>
+			<start inst_eval="2.9e-09" start="97" end="149"/>
+		</feature>
+		<feature type="EF-hand_11" instance="1" clan="CL0220" evalue="0.0087">
+			<start inst_eval="5.3e-06" start="69" end="148"/>
+		</feature>
+		<feature type="EF-hand_1" instance="3" clan="CL0220" evalue="4.8e-08">
+			<start inst_eval="0.00033" start="8" end="34"/>
+			<start inst_eval="4.8e-07" start="85" end="113"/>
+			<start inst_eval="0.0031" start="121" end="146"/>
+		</feature>
+	</protein>
+	<protein id="YEAST01838" length="126">
+		<feature type="Ribosomal_L7Ae" instance="1" clan="CL0101" evalue="9.3e-28">
+			<start inst_eval="1.4e-31" start="18" end="112"/>
+		</feature>
+		<feature type="PELOTA_1" instance="1" clan="CL0101" evalue="0.0017">
+			<start inst_eval="2.9e-07" start="15" end="96"/>
+		</feature>
+	</protein>
+	<protein id="YEAST05717" length="161">
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="2.2e-09">
+			<start inst_eval="6e-06" start="27" end="89"/>
+			<start inst_eval="2.6e-07" start="99" end="161"/>
+		</feature>
+		<feature type="EF-hand_4" instance="2" clan="CL0220" evalue="7.3e-07">
+			<start inst_eval="1.7e-06" start="4" end="77"/>
+			<start inst_eval="0.00016" start="90" end="159"/>
+		</feature>
+		<feature type="EF-hand_8" instance="4" clan="CL0220" evalue="1.1e-16">
+			<start inst_eval="3.4e-07" start="17" end="52"/>
+			<start inst_eval="5e-05" start="38" end="87"/>
+			<start inst_eval="0.018" start="96" end="116"/>
+			<start inst_eval="2.8e-14" start="109" end="159"/>
+		</feature>
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="1e-26">
+			<start inst_eval="5.2e-14" start="22" end="86"/>
+			<start inst_eval="1.5e-18" start="95" end="159"/>
+		</feature>
+		<feature type="EF-hand_6" instance="3" clan="CL0220" evalue="3.2e-19">
+			<start inst_eval="1.7e-10" start="24" end="53"/>
+			<start inst_eval="1e-08" start="97" end="126"/>
+			<start inst_eval="2.4e-07" start="133" end="161"/>
+		</feature>
+		<feature type="SPARC_Ca_bdg" instance="2" clan="CL0220" evalue="0.00063">
+			<start inst_eval="0.00014" start="2" end="82"/>
+			<start inst_eval="0.0021" start="86" end="158"/>
+		</feature>
+		<feature type="EF-hand_1" instance="3" clan="CL0220" evalue="1.2e-23">
+			<start inst_eval="1.5e-11" start="24" end="52"/>
+			<start inst_eval="6.9e-09" start="97" end="125"/>
+			<start inst_eval="4.2e-11" start="133" end="161"/>
+		</feature>
+		<feature type="EF-hand_5" instance="3" clan="CL0220" evalue="1.5e-17">
+			<start inst_eval="6.5e-09" start="25" end="50"/>
+			<start inst_eval="2.4e-08" start="98" end="122"/>
+			<start inst_eval="1.2e-06" start="131" end="157"/>
+		</feature>
+	</protein>
+	<protein id="YEAST01016" length="248">
+		<feature type="TIM" instance="1" clan="TIM" evalue="3e-89">
+			<start inst_eval="2.1e-93" start="5" end="244"/>
+		</feature>
+	</protein>
+</tool>

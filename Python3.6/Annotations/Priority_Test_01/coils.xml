@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<tool name="COILS2">
+	<protein id="antlo_2712:1937" length="468">
+		<feature type="coiled_coil" instance="0">
+		</feature>
+	</protein>
+</tool>

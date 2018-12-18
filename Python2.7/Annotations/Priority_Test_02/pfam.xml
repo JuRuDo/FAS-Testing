@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<tool name="PfamDB">
+	<protein id="vitco_50505:VICG_02013" length="875">
+		<feature type="LRR_8" instance="9" clan="CL0022">
+			<start start="47"/>
+			<end end="102"/>
+			<start start="90"/>
+			<end end="148"/>
+			<start start="113"/>
+			<end end="171"/>
+			<start start="159"/>
+			<end end="217"/>
+			<start start="182"/>
+			<end end="240"/>
+			<start start="228"/>
+			<end end="286"/>
+			<start start="297"/>
+			<end end="355"/>
+			<start start="343"/>
+			<end end="401"/>
+			<start start="367"/>
+			<end end="425"/>
+		</feature>
+		<feature type="LRR_7" instance="13" clan="CL0022">
+			<start start="67"/>
+			<end end="83"/>
+			<start start="90"/>
+			<end end="106"/>
+			<start start="113"/>
+			<end end="129"/>
+			<start start="136"/>
+			<end end="152"/>
+			<start start="159"/>
+			<end end="175"/>
+			<start start="205"/>
+			<end end="221"/>
+			<start start="251"/>
+			<end end="267"/>
+			<start start="272"/>
+			<end end="290"/>
+			<start start="295"/>
+			<end end="313"/>
+			<start start="320"/>
+			<end end="336"/>
+			<start start="343"/>
+			<end end="359"/>
+			<start start="366"/>
+			<end end="382"/>
+			<start start="389"/>
+			<end end="405"/>
+		</feature>
+		<feature type="LRR_4" instance="12" clan="CL0022">
+			<start start="48"/>
+			<end end="86"/>
+			<start start="67"/>
+			<end end="114"/>
+			<start start="90"/>
+			<end end="134"/>
+			<start start="111"/>
+			<end end="159"/>
+			<start start="136"/>
+			<end end="180"/>
+			<start start="159"/>
+			<end end="205"/>
+			<start start="205"/>
+			<end end="244"/>
+			<start start="251"/>
+			<end end="291"/>
+			<start start="274"/>
+			<end end="315"/>
+			<start start="320"/>
+			<end end="365"/>
+			<start start="367"/>
+			<end end="413"/>
+			<start start="389"/>
+			<end end="432"/>
+		</feature>
+		<feature type="LRR_1" instance="15" clan="CL0022">
+			<start start="68"/>
+			<end end="89"/>
+			<start start="91"/>
+			<end end="112"/>
+			<start start="114"/>
+			<end end="135"/>
+			<start start="137"/>
+			<end end="158"/>
+			<start start="160"/>
+			<end end="181"/>
+			<start start="206"/>
+			<end end="227"/>
+			<start start="229"/>
+			<end end="250"/>
+			<start start="252"/>
+			<end end="273"/>
+			<start start="275"/>
+			<end end="296"/>
+			<start start="298"/>
+			<end end="319"/>
+			<start start="321"/>
+			<end end="342"/>
+			<start start="344"/>
+			<end end="365"/>
+			<start start="367"/>
+			<end end="388"/>
+			<start start="390"/>
+			<end end="411"/>
+			<start start="414"/>
+			<end end="441"/>
+		</feature>
+		<feature type="LRR_6" instance="7" clan="CL0022">
+			<start start="89"/>
+			<end end="109"/>
+			<start start="135"/>
+			<end end="151"/>
+			<start start="204"/>
+			<end end="222"/>
+			<start start="227"/>
+			<end end="246"/>
+			<start start="319"/>
+			<end end="341"/>
+			<start start="342"/>
+			<end end="364"/>
+			<start start="388"/>
+			<end end="407"/>
+		</feature>
+	</protein>
+</tool>

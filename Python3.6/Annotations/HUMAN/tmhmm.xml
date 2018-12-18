@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<tool name="TMHMM2.0c">
+	<protein id="HUMAN06609" length="208">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN02831" length="146">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN13676" length="172">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN18157" length="194">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN05019" length="204">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN12852" length="197">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN06612" length="161">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN20808" length="195">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN20252" length="132">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN23579" length="191">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+	<protein id="HUMAN05886" length="286">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+</tool>

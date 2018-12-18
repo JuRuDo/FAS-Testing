@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<out FAS_version="1.6.1" weighting="uniform" constraints="none" MS="classic" priority="50/5000" overlap="0/0.4" efilters="0.001/0.01" timelimit="off" scoreweights="(0.7, 0.0, 0.3)" cores="1" linearized="pfam/smart" normal="cast/coils/seg/signalp/tmhmm">
+	<query id="antlo_2712:1937" length="468">
+		<template id="vitco_50505:VICG_02013" score="0.72104941168" MS="0.7333333333" PS="0.6923869279" CS="1.0" LS="0.7200757576" length="875" mode="priority/priority" calculationTime="1.0672s" >
+			<template_path>
+				<feature type="smart_LRR_BAC">
+					<instance start="113" end="130"/>
+					<instance start="136" end="153"/>
+					<instance start="159" end="176"/>
+					<instance start="183" end="199"/>
+					<instance start="205" end="221"/>
+					<instance start="228" end="244"/>
+					<instance start="251" end="268"/>
+					<instance start="274" end="291"/>
+					<instance start="297" end="314"/>
+					<instance start="320" end="337"/>
+					<instance start="342" end="360"/>
+					<instance start="367" end="383"/>
+					<instance start="389" end="405"/>
+					<instance start="414" end="428"/>
+				</feature>
+				<feature type="signalp_SIGNAL">
+					<instance start="1" end="27"/>
+				</feature>
+				<feature type="pfam_LRR_8">
+					<instance start="47" end="102"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="183" end="197"/>
+				</feature>
+			</template_path>
+			<query_path>
+				<feature type="smart_LRR_BAC">
+					<instance start="87" end="105"/>
+					<instance start="110" end="128"/>
+					<instance start="133" end="151"/>
+					<instance start="156" end="174"/>
+					<instance start="179" end="197"/>
+					<instance start="202" end="220"/>
+					<instance start="225" end="243"/>
+					<instance start="248" end="266"/>
+					<instance start="271" end="289"/>
+					<instance start="294" end="311"/>
+					<instance start="317" end="335"/>
+					<instance start="340" end="357"/>
+					<instance start="362" end="379"/>
+					<instance start="385" end="404"/>
+					<instance start="413" end="423"/>
+				</feature>
+				<feature type="pfam_LRR_8">
+					<instance start="23" end="76"/>
+				</feature>
+				<feature type="seg_low complexity regions">
+					<instance start="5" end="19"/>
+				</feature>
+				<feature type="tmhmm_transmembrane">
+					<instance start="7" end="25"/>
+				</feature>
+			</query_path>
+		</template>
+	</query>
+</out>

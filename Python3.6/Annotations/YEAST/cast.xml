@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<tool name="CAST">
+	<protein id="YEAST02384" length="149">
+	</protein>
+	<protein id="YEAST01838" length="126">
+	</protein>
+	<protein id="YEAST05717" length="161">
+	</protein>
+	<protein id="YEAST01016" length="248">
+	</protein>
+</tool>

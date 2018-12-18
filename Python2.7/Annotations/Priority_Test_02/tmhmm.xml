@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<tool name="TMHMM2.0c">
+	<protein id="vitco_50505:VICG_02013" length="875">
+		<feature type="transmembrane" instance="0">
+		</feature>
+	</protein>
+</tool>

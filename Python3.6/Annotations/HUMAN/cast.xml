@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tool name="CAST">
+	<protein id="HUMAN06609" length="208">
+		<feature type="P-rich" instance="1">
+			<start start="2"/>
+			<end end="51"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN02831" length="146">
+	</protein>
+	<protein id="HUMAN13676" length="172">
+	</protein>
+	<protein id="HUMAN18157" length="194">
+	</protein>
+	<protein id="HUMAN05019" length="204">
+	</protein>
+	<protein id="HUMAN12852" length="197">
+		<feature type="P-rich" instance="1">
+			<start start="3"/>
+			<end end="41"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN06612" length="161">
+	</protein>
+	<protein id="HUMAN20808" length="195">
+		<feature type="P-rich" instance="1">
+			<start start="3"/>
+			<end end="32"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN20252" length="132">
+	</protein>
+	<protein id="HUMAN23579" length="191">
+	</protein>
+	<protein id="HUMAN05886" length="286">
+	</protein>
+</tool>

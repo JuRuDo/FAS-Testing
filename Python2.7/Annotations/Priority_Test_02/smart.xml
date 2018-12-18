@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tool name="SMART-DB">
+	<protein id="vitco_50505:VICG_02013" length="875">
+		<feature type="LRR_BAC" instance="16">
+			<start start="67" end="84"/>
+			<start start="90" end="108"/>
+			<start start="113" end="130"/>
+			<start start="136" end="153"/>
+			<start start="159" end="176"/>
+			<start start="183" end="199"/>
+			<start start="205" end="221"/>
+			<start start="228" end="244"/>
+			<start start="251" end="268"/>
+			<start start="274" end="291"/>
+			<start start="297" end="314"/>
+			<start start="320" end="337"/>
+			<start start="342" end="360"/>
+			<start start="367" end="383"/>
+			<start start="389" end="405"/>
+			<start start="414" end="428"/>
+		</feature>
+		<feature type="LRR_TYP" instance="16">
+			<start start="66" end="88"/>
+			<start start="89" end="111"/>
+			<start start="112" end="134"/>
+			<start start="135" end="155"/>
+			<start start="158" end="178"/>
+			<start start="181" end="203"/>
+			<start start="204" end="226"/>
+			<start start="227" end="249"/>
+			<start start="250" end="270"/>
+			<start start="273" end="293"/>
+			<start start="296" end="318"/>
+			<start start="319" end="341"/>
+			<start start="342" end="364"/>
+			<start start="365" end="387"/>
+			<start start="388" end="409"/>
+			<start start="413" end="432"/>
+		</feature>
+	</protein>
+</tool>

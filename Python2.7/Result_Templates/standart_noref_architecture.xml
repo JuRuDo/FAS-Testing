@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<architectures FAS_version="1.6.1">
+	<template id="YEAST05717" length="161">
+		<architecture>
+			<feature type="smart_EFh" evalue="8e-25">
+				<instance inst_eval="8.7e-13" start="24" end="52"/>
+				<instance inst_eval="9.1e-09" start="97" end="125"/>
+				<instance inst_eval="9.9e-12" start="133" end="160"/>
+			</feature>
+			<feature type="coils_coiled_coil" evalue="NULL">
+				<instance inst_eval="NULL" start="115" end="135"/>
+			</feature>
+			<feature type="smart_EH" evalue="9.6e-09">
+				<instance inst_eval="5.6e-06" start="8" end="67"/>
+				<instance inst_eval="1.1e-06" start="89" end="159"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="1e-26">
+				<instance inst_eval="5.2e-14" start="22" end="86"/>
+				<instance inst_eval="1.5e-18" start="95" end="159"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="3.2e-19">
+				<instance inst_eval="1.7e-10" start="24" end="53"/>
+				<instance inst_eval="1e-08" start="97" end="126"/>
+				<instance inst_eval="2.4e-07" start="133" end="161"/>
+			</feature>
+			<feature type="pfam_EF-hand_5" evalue="1.5e-17">
+				<instance inst_eval="6.5e-09" start="25" end="50"/>
+				<instance inst_eval="2.4e-08" start="98" end="122"/>
+				<instance inst_eval="1.2e-06" start="131" end="157"/>
+			</feature>
+			<feature type="pfam_EF-hand_4" evalue="7.3e-07">
+				<instance inst_eval="1.7e-06" start="4" end="77"/>
+				<instance inst_eval="0.00016" start="90" end="159"/>
+			</feature>
+			<feature type="pfam_SPARC_Ca_bdg" evalue="0.00063">
+				<instance inst_eval="0.00014" start="2" end="82"/>
+				<instance inst_eval="0.0021" start="86" end="158"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="1.2e-23">
+				<instance inst_eval="1.5e-11" start="24" end="52"/>
+				<instance inst_eval="6.9e-09" start="97" end="125"/>
+				<instance inst_eval="4.2e-11" start="133" end="161"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="2.2e-09">
+				<instance inst_eval="6e-06" start="27" end="89"/>
+				<instance inst_eval="2.6e-07" start="99" end="161"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="1.1e-16">
+				<instance inst_eval="3.4e-07" start="17" end="52"/>
+				<instance inst_eval="5e-05" start="38" end="87"/>
+				<instance inst_eval="2.8e-14" start="109" end="159"/>
+			</feature>
+		</architecture>
+	</template>
+	<template id="YEAST01838" length="126">
+		<architecture>
+			<feature type="pfam_Ribosomal_L7Ae" evalue="9.3e-28">
+				<instance inst_eval="1.4e-31" start="18" end="112"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="58" end="71"/>
+			</feature>
+		</architecture>
+	</template>
+	<template id="YEAST02384" length="149">
+		<architecture>
+			<feature type="smart_EFh" evalue="1.4e-07">
+				<instance inst_eval="0.0055" start="8" end="34"/>
+				<instance inst_eval="5e-07" start="85" end="113"/>
+				<instance inst_eval="0.00085" start="121" end="144"/>
+			</feature>
+			<feature type="smart_EH" evalue="0.00036">
+				<instance inst_eval="1.6e-05" start="75" end="144"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="1.7e-11">
+				<instance inst_eval="9.5e-05" start="5" end="77"/>
+				<instance inst_eval="3.7e-11" start="83" end="146"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="7.7e-09">
+				<instance inst_eval="3.6e-05" start="7" end="35"/>
+				<instance inst_eval="2.8e-07" start="85" end="114"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="4.8e-08">
+				<instance inst_eval="0.00033" start="8" end="34"/>
+				<instance inst_eval="4.8e-07" start="85" end="113"/>
+				<instance inst_eval="0.0031" start="121" end="146"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="1.1e-08">
+				<instance inst_eval="1.3e-05" start="8" end="63"/>
+				<instance inst_eval="5e-07" start="88" end="148"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="8e-09">
+				<instance inst_eval="0.0096" start="18" end="49"/>
+				<instance inst_eval="2.9e-09" start="97" end="149"/>
+			</feature>
+		</architecture>
+	</template>
+	<template id="YEAST01016" length="248">
+		<architecture>
+			<feature type="coils_coiled_coil" evalue="NULL">
+				<instance inst_eval="NULL" start="140" end="160"/>
+			</feature>
+			<feature type="pfam_TIM" evalue="3e-89">
+				<instance inst_eval="2.1e-93" start="5" end="244"/>
+			</feature>
+		</architecture>
+	</template>
+	<query id="HUMAN20808" length="195">
+		<architecture>
+			<feature type="smart_EFh" evalue="7.7e-09">
+				<instance inst_eval="0.0002" start="53" end="64"/>
+				<instance inst_eval="8.1e-06" start="137" end="160"/>
+				<instance inst_eval="0.00049" start="177" end="195"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="3.5e-08">
+				<instance inst_eval="1.1e-05" start="53" end="84"/>
+				<instance inst_eval="7.3e-06" start="132" end="175"/>
+			</feature>
+			<feature type="cast_P-rich" evalue="NULL">
+				<instance inst_eval="NULL" start="3" end="32"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="1.2e-06">
+				<instance inst_eval="0.0043" start="53" end="64"/>
+				<instance inst_eval="3.7e-06" start="129" end="160"/>
+				<instance inst_eval="0.0034" start="175" end="195"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="2" end="34"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN23579" length="191">
+		<architecture>
+			<feature type="smart_EFh" evalue="2.3e-24">
+				<instance inst_eval="1.6e-11" start="29" end="57"/>
+				<instance inst_eval="1.6e-06" start="65" end="92"/>
+				<instance inst_eval="1.6e-07" start="102" end="130"/>
+				<instance inst_eval="2.4e-08" start="138" end="157"/>
+				<instance inst_eval="0.0039" start="177" end="190"/>
+			</feature>
+			<feature type="coils_coiled_coil" evalue="NULL">
+				<instance inst_eval="NULL" start="120" end="140"/>
+			</feature>
+			<feature type="smart_EH" evalue="1.4e-06">
+				<instance inst_eval="1.7e-05" start="10" end="76"/>
+				<instance inst_eval="0.0013" start="59" end="124"/>
+				<instance inst_eval="0.00025" start="92" end="188"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="1.8e-22">
+				<instance inst_eval="8.6e-14" start="27" end="91"/>
+				<instance inst_eval="3.4e-14" start="100" end="157"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="6.1e-20">
+				<instance inst_eval="7.5e-10" start="29" end="58"/>
+				<instance inst_eval="3.7e-05" start="65" end="96"/>
+				<instance inst_eval="3.4e-08" start="102" end="131"/>
+				<instance inst_eval="0.00047" start="138" end="159"/>
+			</feature>
+			<feature type="pfam_EF-hand_5" evalue="8.6e-13">
+				<instance inst_eval="1.1e-05" start="30" end="54"/>
+				<instance inst_eval="0.0091" start="68" end="90"/>
+				<instance inst_eval="3.5e-07" start="103" end="127"/>
+				<instance inst_eval="4.8e-05" start="138" end="154"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="2.6e-22">
+				<instance inst_eval="1.2e-10" start="29" end="57"/>
+				<instance inst_eval="2.5e-06" start="65" end="92"/>
+				<instance inst_eval="3.4e-07" start="102" end="130"/>
+				<instance inst_eval="3e-07" start="138" end="157"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="3.2e-06">
+				<instance inst_eval="4.2e-05" start="31" end="94"/>
+				<instance inst_eval="8.7e-05" start="105" end="157"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="2.7e-12">
+				<instance inst_eval="4.6e-06" start="18" end="57"/>
+				<instance inst_eval="4.1e-05" start="45" end="92"/>
+				<instance inst_eval="1.3e-05" start="77" end="121"/>
+				<instance inst_eval="7.7e-10" start="115" end="157"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN13676" length="172">
+		<architecture>
+			<feature type="smart_EFh" evalue="8.9e-14">
+				<instance inst_eval="7.9e-14" start="33" end="61"/>
+				<instance inst_eval="1.4e-05" start="102" end="130"/>
+			</feature>
+			<feature type="pfam_UPF0154" evalue="0.00065">
+				<instance inst_eval="0.00042" start="42" end="77"/>
+				<instance inst_eval="0.0065" start="113" end="146"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="9.5e-15">
+				<instance inst_eval="6.3e-11" start="33" end="61"/>
+				<instance inst_eval="2e-05" start="102" end="130"/>
+				<instance inst_eval="0.00044" start="138" end="166"/>
+			</feature>
+			<feature type="smart_EH" evalue="2.9e-05">
+				<instance inst_eval="3.5e-05" start="23" end="67"/>
+				<instance inst_eval="0.00059" start="97" end="168"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="1.7e-13">
+				<instance inst_eval="1.4e-10" start="31" end="78"/>
+				<instance inst_eval="2.4e-07" start="100" end="164"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="8.3e-12">
+				<instance inst_eval="3.9e-11" start="33" end="62"/>
+				<instance inst_eval="1.4e-05" start="102" end="136"/>
+			</feature>
+			<feature type="pfam_EF-hand_5" evalue="4.3e-06">
+				<instance inst_eval="8.9e-09" start="34" end="58"/>
+			</feature>
+			<feature type="pfam_EF-hand_11" evalue="7.5e-06">
+				<instance inst_eval="2.9e-08" start="92" end="168"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="4" end="13"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="0.0003">
+				<instance inst_eval="0.0028" start="35" end="83"/>
+				<instance inst_eval="0.00017" start="104" end="166"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="1.6e-08">
+				<instance inst_eval="1.2e-05" start="32" end="61"/>
+				<instance inst_eval="4e-06" start="45" end="93"/>
+				<instance inst_eval="9.7e-07" start="114" end="166"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN12852" length="197">
+		<architecture>
+			<feature type="smart_EFh" evalue="9.7e-08">
+				<instance inst_eval="8e-05" start="55" end="66"/>
+				<instance inst_eval="9.9e-05" start="139" end="162"/>
+				<instance inst_eval="0.00099" start="179" end="196"/>
+			</feature>
+			<feature type="cast_P-rich" evalue="NULL">
+				<instance inst_eval="NULL" start="3" end="41"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="5.8e-09">
+				<instance inst_eval="1.8e-07" start="55" end="86"/>
+				<instance inst_eval="0.00011" start="134" end="176"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="1.2e-05">
+				<instance inst_eval="0.0043" start="55" end="66"/>
+				<instance inst_eval="4.5e-05" start="131" end="162"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="2" end="38"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="2.4e-05">
+				<instance inst_eval="3.1e-05" start="57" end="123"/>
+				<instance inst_eval="0.00029" start="138" end="196"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN05019" length="204">
+		<architecture>
+			<feature type="smart_EFh" evalue="5.5e-31">
+				<instance inst_eval="1.4e-09" start="66" end="94"/>
+				<instance inst_eval="0.00016" start="112" end="127"/>
+				<instance inst_eval="2.8e-13" start="140" end="168"/>
+				<instance inst_eval="2.1e-12" start="177" end="204"/>
+			</feature>
+			<feature type="smart_EH" evalue="1.1e-05">
+				<instance inst_eval="0.0078" start="56" end="125"/>
+				<instance inst_eval="9.3e-07" start="138" end="203"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="3.3e-24">
+				<instance inst_eval="8.2e-07" start="37" end="92"/>
+				<instance inst_eval="9.9e-09" start="64" end="125"/>
+				<instance inst_eval="1.5e-19" start="139" end="203"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="1e-23">
+				<instance inst_eval="1.5e-09" start="66" end="97"/>
+				<instance inst_eval="9.9e-12" start="140" end="170"/>
+				<instance inst_eval="2.5e-06" start="177" end="204"/>
+			</feature>
+			<feature type="pfam_EF-hand_5" evalue="1.9e-20">
+				<instance inst_eval="2.5e-06" start="67" end="91"/>
+				<instance inst_eval="1.3e-11" start="141" end="166"/>
+				<instance inst_eval="3.2e-08" start="178" end="202"/>
+			</feature>
+			<feature type="pfam_EF-hand_4" evalue="0.00044">
+				<instance inst_eval="6.3e-06" start="139" end="204"/>
+			</feature>
+			<feature type="pfam_SPARC_Ca_bdg" evalue="0.00018">
+				<instance inst_eval="0.0014" start="33" end="109"/>
+				<instance inst_eval="0.00011" start="127" end="201"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="3.2e-30">
+				<instance inst_eval="3.7e-10" start="66" end="94"/>
+				<instance inst_eval="0.0015" start="113" end="126"/>
+				<instance inst_eval="3.4e-12" start="140" end="168"/>
+				<instance inst_eval="3e-11" start="177" end="204"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="37" end="46"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="2.4e-08">
+				<instance inst_eval="0.00023" start="68" end="127"/>
+				<instance inst_eval="1.3e-07" start="143" end="204"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="1.8e-24">
+				<instance inst_eval="1.1e-07" start="63" end="94"/>
+				<instance inst_eval="2.2e-10" start="111" end="160"/>
+				<instance inst_eval="9.7e-15" start="154" end="204"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN18157" length="194">
+		<architecture>
+			<feature type="smart_EFh" evalue="6.2e-13">
+				<instance inst_eval="2.1e-08" start="54" end="82"/>
+				<instance inst_eval="1.6e-05" start="136" end="159"/>
+				<instance inst_eval="0.00065" start="176" end="194"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="4e-08">
+				<instance inst_eval="2.3e-05" start="52" end="118"/>
+				<instance inst_eval="9.4e-07" start="125" end="192"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="1.2e-11">
+				<instance inst_eval="2.4e-09" start="54" end="83"/>
+				<instance inst_eval="1.3e-05" start="131" end="164"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="1e-11">
+				<instance inst_eval="6e-07" start="54" end="82"/>
+				<instance inst_eval="6.3e-06" start="131" end="159"/>
+				<instance inst_eval="0.0039" start="167" end="194"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="2" end="34"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="8.1e-05">
+				<instance inst_eval="1.3e-05" start="56" end="120"/>
+				<instance inst_eval="0.003" start="135" end="194"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN02831" length="146">
+		<architecture>
+			<feature type="smart_EFh" evalue="1.8e-40">
+				<instance inst_eval="1.2e-11" start="12" end="40"/>
+				<instance inst_eval="3e-12" start="48" end="76"/>
+				<instance inst_eval="7e-12" start="82" end="110"/>
+				<instance inst_eval="4.3e-12" start="118" end="146"/>
+			</feature>
+			<feature type="pfam_EF-hand_11" evalue="1.1e-05">
+				<instance inst_eval="0.00027" start="10" end="87"/>
+				<instance inst_eval="6.1e-05" start="74" end="146"/>
+			</feature>
+			<feature type="smart_EH" evalue="1.7e-16">
+				<instance inst_eval="3.9e-13" start="3" end="84"/>
+				<instance inst_eval="2.2e-07" start="77" end="144"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="1.1e-34">
+				<instance inst_eval="6.5e-19" start="10" end="74"/>
+				<instance inst_eval="2.3e-19" start="80" end="144"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="5.8e-27">
+				<instance inst_eval="2.1e-09" start="12" end="42"/>
+				<instance inst_eval="1.9e-06" start="48" end="80"/>
+				<instance inst_eval="4.2e-11" start="82" end="111"/>
+				<instance inst_eval="7.8e-05" start="117" end="145"/>
+			</feature>
+			<feature type="pfam_EF-hand_5" evalue="6.4e-29">
+				<instance inst_eval="1.5e-08" start="14" end="38"/>
+				<instance inst_eval="3.6e-08" start="49" end="73"/>
+				<instance inst_eval="1.3e-10" start="83" end="108"/>
+				<instance inst_eval="5.6e-08" start="119" end="143"/>
+			</feature>
+			<feature type="pfam_EF-hand_4" evalue="9e-10">
+				<instance inst_eval="2e-07" start="1" end="76"/>
+				<instance inst_eval="7.7e-06" start="81" end="144"/>
+			</feature>
+			<feature type="pfam_SPARC_Ca_bdg" evalue="3.1e-07">
+				<instance inst_eval="2.3e-05" start="4" end="72"/>
+				<instance inst_eval="1.6e-05" start="71" end="142"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="2e-38">
+				<instance inst_eval="3e-10" start="12" end="40"/>
+				<instance inst_eval="1.4e-10" start="48" end="76"/>
+				<instance inst_eval="1e-11" start="82" end="110"/>
+				<instance inst_eval="3.7e-11" start="118" end="145"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="6.8e-11">
+				<instance inst_eval="1.2e-08" start="14" end="76"/>
+				<instance inst_eval="7.4e-06" start="84" end="146"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="4.7e-30">
+				<instance inst_eval="0.00045" start="7" end="33"/>
+				<instance inst_eval="6.4e-10" start="30" end="76"/>
+				<instance inst_eval="2e-07" start="73" end="102"/>
+				<instance inst_eval="3e-17" start="95" end="146"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN05886" length="286">
+		<architecture>
+			<feature type="pfam_TIM" evalue="2.4e-86">
+				<instance inst_eval="1.7e-90" start="44" end="282"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN06609" length="208">
+		<architecture>
+			<feature type="smart_EFh" evalue="6.6e-16">
+				<instance inst_eval="5.9e-11" start="68" end="96"/>
+				<instance inst_eval="1.8e-06" start="150" end="173"/>
+				<instance inst_eval="0.0019" start="189" end="205"/>
+			</feature>
+			<feature type="cast_P-rich" evalue="NULL">
+				<instance inst_eval="NULL" start="2" end="51"/>
+			</feature>
+			<feature type="pfam_EF-hand_7" evalue="2.8e-09">
+				<instance inst_eval="3.4e-05" start="66" end="132"/>
+				<instance inst_eval="3.6e-08" start="144" end="206"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="4.2e-12">
+				<instance inst_eval="2.8e-08" start="68" end="97"/>
+				<instance inst_eval="2.6e-07" start="145" end="187"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="2.5e-11">
+				<instance inst_eval="1.4e-06" start="68" end="96"/>
+				<instance inst_eval="3.3e-07" start="145" end="173"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="2" end="41"/>
+			</feature>
+			<feature type="pfam_EF-hand_9" evalue="2e-05">
+				<instance inst_eval="4.5e-05" start="70" end="134"/>
+				<instance inst_eval="0.00021" start="148" end="207"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="3e-05">
+				<instance inst_eval="0.0011" start="55" end="87"/>
+				<instance inst_eval="0.0039" start="118" end="165"/>
+				<instance inst_eval="0.00056" start="163" end="203"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN20252" length="132">
+		<architecture>
+			<feature type="pfam_Ribosomal_L7Ae" evalue="2.1e-25">
+				<instance inst_eval="3.1e-29" start="24" end="118"/>
+			</feature>
+			<feature type="pfam_RNase_P_pop3" evalue="0.00017">
+				<instance inst_eval="2.7e-08" start="1" end="132"/>
+			</feature>
+			<feature type="seg_low complexity regions" evalue="NULL">
+				<instance inst_eval="NULL" start="65" end="76"/>
+				<instance inst_eval="NULL" start="114" end="127"/>
+			</feature>
+		</architecture>
+	</query>
+	<query id="HUMAN06612" length="161">
+		<architecture>
+			<feature type="pfam_EF-hand_7" evalue="4.4e-06">
+				<instance inst_eval="2.2e-05" start="9" end="84"/>
+				<instance inst_eval="0.00012" start="86" end="143"/>
+			</feature>
+			<feature type="pfam_EF-hand_6" evalue="6.9e-11">
+				<instance inst_eval="9.7e-10" start="11" end="40"/>
+				<instance inst_eval="7.3e-05" start="90" end="126"/>
+			</feature>
+			<feature type="smart_EFh" evalue="3.9e-13">
+				<instance inst_eval="7.4e-12" start="11" end="39"/>
+				<instance inst_eval="0.00022" start="93" end="116"/>
+			</feature>
+			<feature type="pfam_EF-hand_1" evalue="2.7e-10">
+				<instance inst_eval="9.6e-09" start="11" end="39"/>
+				<instance inst_eval="6.5e-05" start="88" end="116"/>
+			</feature>
+			<feature type="pfam_EF-hand_8" evalue="0.00065">
+				<instance inst_eval="0.0032" start="9" end="30"/>
+				<instance inst_eval="0.0021" start="106" end="142"/>
+			</feature>
+		</architecture>
+	</query>
+</architectures>

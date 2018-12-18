@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<tool name="PfamDB">
+	<protein id="HUMAN06609" length="208">
+		<feature type="EF-hand_1" instance="3" clan="CL0220" evalue="2.5e-11">
+			<start inst_eval="1.4e-06" start="68" end="96"/>
+			<start inst_eval="3.3e-07" start="145" end="173"/>
+			<start inst_eval="0.017" start="190" end="207"/>
+		</feature>
+		<feature type="EF-hand_8" instance="3" clan="CL0220" evalue="3e-05">
+			<start inst_eval="0.0011" start="55" end="87"/>
+			<start inst_eval="0.0039" start="118" end="165"/>
+			<start inst_eval="0.00056" start="163" end="203"/>
+		</feature>
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="2.8e-09">
+			<start inst_eval="3.4e-05" start="66" end="132"/>
+			<start inst_eval="3.6e-08" start="144" end="206"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="2e-05">
+			<start inst_eval="4.5e-05" start="70" end="134"/>
+			<start inst_eval="0.00021" start="148" end="207"/>
+		</feature>
+		<feature type="EF-hand_6" instance="2" clan="CL0220" evalue="4.2e-12">
+			<start inst_eval="2.8e-08" start="68" end="97"/>
+			<start inst_eval="2.6e-07" start="145" end="187"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN02831" length="146">
+		<feature type="EF-hand_8" instance="4" clan="CL0220" evalue="4.7e-30">
+			<start inst_eval="0.00045" start="7" end="33"/>
+			<start inst_eval="6.4e-10" start="30" end="76"/>
+			<start inst_eval="2e-07" start="73" end="102"/>
+			<start inst_eval="3e-17" start="95" end="146"/>
+		</feature>
+		<feature type="SPARC_Ca_bdg" instance="2" clan="CL0220" evalue="3.1e-07">
+			<start inst_eval="2.3e-05" start="4" end="72"/>
+			<start inst_eval="1.6e-05" start="71" end="142"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="6.8e-11">
+			<start inst_eval="1.2e-08" start="14" end="76"/>
+			<start inst_eval="7.4e-06" start="84" end="146"/>
+		</feature>
+		<feature type="EF-hand_11" instance="2" clan="CL0220" evalue="1.1e-05">
+			<start inst_eval="0.00027" start="10" end="87"/>
+			<start inst_eval="6.1e-05" start="74" end="146"/>
+		</feature>
+		<feature type="EF-hand_1" instance="4" clan="CL0220" evalue="2e-38">
+			<start inst_eval="3e-10" start="12" end="40"/>
+			<start inst_eval="1.4e-10" start="48" end="76"/>
+			<start inst_eval="1e-11" start="82" end="110"/>
+			<start inst_eval="3.7e-11" start="118" end="145"/>
+		</feature>
+		<feature type="EF-hand_5" instance="4" clan="CL0220" evalue="6.4e-29">
+			<start inst_eval="1.5e-08" start="14" end="38"/>
+			<start inst_eval="3.6e-08" start="49" end="73"/>
+			<start inst_eval="1.3e-10" start="83" end="108"/>
+			<start inst_eval="5.6e-08" start="119" end="143"/>
+		</feature>
+		<feature type="EF-hand_4" instance="2" clan="CL0220" evalue="9e-10">
+			<start inst_eval="2e-07" start="1" end="76"/>
+			<start inst_eval="7.7e-06" start="81" end="144"/>
+		</feature>
+		<feature type="TerB" instance="2" clan="CL0414" evalue="0.0047">
+			<start inst_eval="0.0028" start="3" end="88"/>
+			<start inst_eval="0.00074" start="93" end="146"/>
+		</feature>
+		<feature type="EF-hand_6" instance="4" clan="CL0220" evalue="5.8e-27">
+			<start inst_eval="2.1e-09" start="12" end="42"/>
+			<start inst_eval="1.9e-06" start="48" end="80"/>
+			<start inst_eval="4.2e-11" start="82" end="111"/>
+			<start inst_eval="7.8e-05" start="117" end="145"/>
+		</feature>
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="1.1e-34">
+			<start inst_eval="6.5e-19" start="10" end="74"/>
+			<start inst_eval="2.3e-19" start="80" end="144"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN13676" length="172">
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="1.7e-13">
+			<start inst_eval="1.4e-10" start="31" end="78"/>
+			<start inst_eval="2.4e-07" start="100" end="164"/>
+		</feature>
+		<feature type="EF-hand_6" instance="2" clan="CL0220" evalue="8.3e-12">
+			<start inst_eval="3.9e-11" start="33" end="62"/>
+			<start inst_eval="1.4e-05" start="102" end="136"/>
+		</feature>
+		<feature type="EF-hand_1" instance="3" clan="CL0220" evalue="9.5e-15">
+			<start inst_eval="6.3e-11" start="33" end="61"/>
+			<start inst_eval="2e-05" start="102" end="130"/>
+			<start inst_eval="0.00044" start="138" end="166"/>
+		</feature>
+		<feature type="GPHH" instance="2" clan="GPHH" evalue="0.0013">
+			<start inst_eval="0.00045" start="25" end="64"/>
+			<start inst_eval="0.0032" start="104" end="134"/>
+		</feature>
+		<feature type="UPF0154" instance="2" clan="UPF0154" evalue="0.00065">
+			<start inst_eval="0.00042" start="42" end="77"/>
+			<start inst_eval="0.0065" start="113" end="146"/>
+		</feature>
+		<feature type="EF-hand_5" instance="1" clan="CL0220" evalue="4.3e-06">
+			<start inst_eval="8.9e-09" start="34" end="58"/>
+		</feature>
+		<feature type="EF-hand_11" instance="1" clan="CL0220" evalue="7.5e-06">
+			<start inst_eval="2.9e-08" start="92" end="168"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="0.0003">
+			<start inst_eval="0.0028" start="35" end="83"/>
+			<start inst_eval="0.00017" start="104" end="166"/>
+		</feature>
+		<feature type="EF-hand_8" instance="4" clan="CL0220" evalue="1.6e-08">
+			<start inst_eval="1.2e-05" start="32" end="61"/>
+			<start inst_eval="4e-06" start="45" end="93"/>
+			<start inst_eval="0.062" start="79" end="121"/>
+			<start inst_eval="9.7e-07" start="114" end="166"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN18157" length="194">
+		<feature type="EF-hand_8" instance="2" clan="CL0220" evalue="0.0021">
+			<start inst_eval="0.0021" start="105" end="152"/>
+			<start inst_eval="0.0003" start="149" end="189"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="8.1e-05">
+			<start inst_eval="1.3e-05" start="56" end="120"/>
+			<start inst_eval="0.003" start="135" end="194"/>
+		</feature>
+		<feature type="EF-hand_1" instance="4" clan="CL0220" evalue="1e-11">
+			<start inst_eval="6e-07" start="54" end="82"/>
+			<start inst_eval="0.062" start="106" end="120"/>
+			<start inst_eval="6.3e-06" start="131" end="159"/>
+			<start inst_eval="0.0039" start="167" end="194"/>
+		</feature>
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="4e-08">
+			<start inst_eval="2.3e-05" start="52" end="118"/>
+			<start inst_eval="9.4e-07" start="125" end="192"/>
+		</feature>
+		<feature type="EF-hand_6" instance="2" clan="CL0220" evalue="1.2e-11">
+			<start inst_eval="2.4e-09" start="54" end="83"/>
+			<start inst_eval="1.3e-05" start="131" end="164"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN05019" length="204">
+		<feature type="SPARC_Ca_bdg" instance="2" clan="CL0220" evalue="0.00018">
+			<start inst_eval="0.0014" start="33" end="109"/>
+			<start inst_eval="0.00011" start="127" end="201"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="2.4e-08">
+			<start inst_eval="0.00023" start="68" end="127"/>
+			<start inst_eval="1.3e-07" start="143" end="204"/>
+		</feature>
+		<feature type="EF-hand_8" instance="3" clan="CL0220" evalue="1.8e-24">
+			<start inst_eval="1.1e-07" start="63" end="94"/>
+			<start inst_eval="2.2e-10" start="111" end="160"/>
+			<start inst_eval="9.7e-15" start="154" end="204"/>
+		</feature>
+		<feature type="EF-hand_6" instance="4" clan="CL0220" evalue="1e-23">
+			<start inst_eval="1.5e-09" start="66" end="97"/>
+			<start inst_eval="0.079" start="111" end="131"/>
+			<start inst_eval="9.9e-12" start="140" end="170"/>
+			<start inst_eval="2.5e-06" start="177" end="204"/>
+		</feature>
+		<feature type="EF-hand_7" instance="3" clan="CL0220" evalue="3.3e-24">
+			<start inst_eval="8.2e-07" start="37" end="92"/>
+			<start inst_eval="9.9e-09" start="64" end="125"/>
+			<start inst_eval="1.5e-19" start="139" end="203"/>
+		</feature>
+		<feature type="EF-hand_1" instance="4" clan="CL0220" evalue="3.2e-30">
+			<start inst_eval="3.7e-10" start="66" end="94"/>
+			<start inst_eval="0.0015" start="113" end="126"/>
+			<start inst_eval="3.4e-12" start="140" end="168"/>
+			<start inst_eval="3e-11" start="177" end="204"/>
+		</feature>
+		<feature type="EF-hand_4" instance="1" clan="CL0220" evalue="0.00044">
+			<start inst_eval="6.3e-06" start="139" end="204"/>
+		</feature>
+		<feature type="EF-hand_5" instance="4" clan="CL0220" evalue="1.9e-20">
+			<start inst_eval="2.5e-06" start="67" end="91"/>
+			<start inst_eval="0.069" start="113" end="124"/>
+			<start inst_eval="1.3e-11" start="141" end="166"/>
+			<start inst_eval="3.2e-08" start="178" end="202"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN12852" length="197">
+		<feature type="EF-hand_1" instance="3" clan="CL0220" evalue="1.2e-05">
+			<start inst_eval="0.0043" start="55" end="66"/>
+			<start inst_eval="4.5e-05" start="131" end="162"/>
+			<start inst_eval="0.012" start="179" end="197"/>
+		</feature>
+		<feature type="EF-hand_6" instance="2" clan="CL0220" evalue="5.8e-09">
+			<start inst_eval="1.8e-07" start="55" end="86"/>
+			<start inst_eval="0.00011" start="134" end="176"/>
+		</feature>
+		<feature type="EF-hand_7" instance="1" clan="CL0220" evalue="0.0067">
+			<start inst_eval="1.1e-05" start="53" end="195"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="2.4e-05">
+			<start inst_eval="3.1e-05" start="57" end="123"/>
+			<start inst_eval="0.00029" start="138" end="196"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN06612" length="161">
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="4.4e-06">
+			<start inst_eval="2.2e-05" start="9" end="84"/>
+			<start inst_eval="0.00012" start="86" end="143"/>
+		</feature>
+		<feature type="EF-hand_6" instance="2" clan="CL0220" evalue="6.9e-11">
+			<start inst_eval="9.7e-10" start="11" end="40"/>
+			<start inst_eval="7.3e-05" start="90" end="126"/>
+		</feature>
+		<feature type="EF-hand_1" instance="2" clan="CL0220" evalue="2.7e-10">
+			<start inst_eval="9.6e-09" start="11" end="39"/>
+			<start inst_eval="6.5e-05" start="88" end="116"/>
+		</feature>
+		<feature type="EF-hand_5" instance="1" clan="CL0220" evalue="0.0034">
+			<start inst_eval="6.6e-06" start="12" end="27"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="0.0011">
+			<start inst_eval="6.5e-05" start="13" end="76"/>
+			<start inst_eval="0.012" start="92" end="134"/>
+		</feature>
+		<feature type="EF-hand_8" instance="3" clan="CL0220" evalue="0.00065">
+			<start inst_eval="0.0032" start="9" end="30"/>
+			<start inst_eval="0.011" start="63" end="114"/>
+			<start inst_eval="0.0021" start="106" end="142"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN20808" length="195">
+		<feature type="EF-hand_1" instance="3" clan="CL0220" evalue="1.2e-06">
+			<start inst_eval="0.0043" start="53" end="64"/>
+			<start inst_eval="3.7e-06" start="129" end="160"/>
+			<start inst_eval="0.0034" start="175" end="195"/>
+		</feature>
+		<feature type="EF-hand_7" instance="1" clan="CL0220" evalue="0.0014">
+			<start inst_eval="1.2e-06" start="129" end="193"/>
+		</feature>
+		<feature type="EF-hand_6" instance="2" clan="CL0220" evalue="3.5e-08">
+			<start inst_eval="1.1e-05" start="53" end="84"/>
+			<start inst_eval="7.3e-06" start="132" end="175"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN20252" length="132">
+		<feature type="RNase_P_pop3" instance="1" clan="CL0101" evalue="0.00017">
+			<start inst_eval="2.7e-08" start="1" end="132"/>
+		</feature>
+		<feature type="Ribosomal_L7Ae" instance="1" clan="CL0101" evalue="2.1e-25">
+			<start inst_eval="3.1e-29" start="24" end="118"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN23579" length="191">
+		<feature type="HTH_40" instance="2" clan="CL0123" evalue="0.0091">
+			<start inst_eval="0.0052" start="6" end="89"/>
+			<start inst_eval="0.00094" start="66" end="143"/>
+		</feature>
+		<feature type="EF-hand_8" instance="4" clan="CL0220" evalue="2.7e-12">
+			<start inst_eval="4.6e-06" start="18" end="57"/>
+			<start inst_eval="4.1e-05" start="45" end="92"/>
+			<start inst_eval="1.3e-05" start="77" end="121"/>
+			<start inst_eval="7.7e-10" start="115" end="157"/>
+		</feature>
+		<feature type="EF-hand_9" instance="2" clan="CL0220" evalue="3.2e-06">
+			<start inst_eval="4.2e-05" start="31" end="94"/>
+			<start inst_eval="8.7e-05" start="105" end="157"/>
+		</feature>
+		<feature type="EF-hand_1" instance="5" clan="CL0220" evalue="2.6e-22">
+			<start inst_eval="1.2e-10" start="29" end="57"/>
+			<start inst_eval="2.5e-06" start="65" end="92"/>
+			<start inst_eval="3.4e-07" start="102" end="130"/>
+			<start inst_eval="3e-07" start="138" end="157"/>
+			<start inst_eval="0.08" start="177" end="189"/>
+		</feature>
+		<feature type="EF-hand_4" instance="1" clan="CL0220" evalue="0.0039">
+			<start inst_eval="2.7e-06" start="8" end="75"/>
+		</feature>
+		<feature type="EF-hand_5" instance="4" clan="CL0220" evalue="8.6e-13">
+			<start inst_eval="1.1e-05" start="30" end="54"/>
+			<start inst_eval="0.0091" start="68" end="90"/>
+			<start inst_eval="3.5e-07" start="103" end="127"/>
+			<start inst_eval="4.8e-05" start="138" end="154"/>
+		</feature>
+		<feature type="Caleosin" instance="3" clan="CL0220" evalue="0.0027">
+			<start inst_eval="0.00042" start="25" end="70"/>
+			<start inst_eval="0.079" start="62" end="105"/>
+			<start inst_eval="0.082" start="100" end="143"/>
+		</feature>
+		<feature type="EF-hand_6" instance="4" clan="CL0220" evalue="6.1e-20">
+			<start inst_eval="7.5e-10" start="29" end="58"/>
+			<start inst_eval="3.7e-05" start="65" end="96"/>
+			<start inst_eval="3.4e-08" start="102" end="131"/>
+			<start inst_eval="0.00047" start="138" end="159"/>
+		</feature>
+		<feature type="EF-hand_7" instance="2" clan="CL0220" evalue="1.8e-22">
+			<start inst_eval="8.6e-14" start="27" end="91"/>
+			<start inst_eval="3.4e-14" start="100" end="157"/>
+		</feature>
+	</protein>
+	<protein id="HUMAN05886" length="286">
+		<feature type="TIM" instance="1" clan="TIM" evalue="2.4e-86">
+			<start inst_eval="1.7e-90" start="44" end="282"/>
+		</feature>
+	</protein>
+</tool>

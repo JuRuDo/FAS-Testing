@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<tool name="seg">
+	<protein id="YEAST02384" length="149">
+		<feature type="low complexity regions" instance="0">
+		</feature>
+	</protein>
+	<protein id="YEAST01838" length="126">
+		<feature type="low complexity regions" instance="1">
+			<start start="58"/>
+			<end end="71"/>
+		</feature>
+	</protein>
+	<protein id="YEAST05717" length="161">
+		<feature type="low complexity regions" instance="0">
+		</feature>
+	</protein>
+	<protein id="YEAST01016" length="248">
+		<feature type="low complexity regions" instance="0">
+		</feature>
+	</protein>
+</tool>
